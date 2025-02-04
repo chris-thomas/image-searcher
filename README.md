@@ -178,6 +178,8 @@ The "Find Similar" feature now considers both visual content and artistic style:
 
 ## References
 
+* [FastHTML](https://www.fastht.ml/)
+* [MonsterUI](https://github.com/AnswerDotAI/MonsterUI)
 * [FAISS article](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/)
 * [FAISS repo](https://github.com/facebookresearch/faiss)
 * [Stable Diffusion on Hugging Face](https://huggingface.co/spaces/stabilityai/stable-diffusion)
