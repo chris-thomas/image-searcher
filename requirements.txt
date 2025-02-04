@@ -11,5 +11,3 @@ torch
 numpy
 faiss-cpu 
 httpx
-geopy
-python-multipart

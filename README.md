@@ -1,9 +1,8 @@
 # Building a Context and Style Aware Image Search Engine: Combining CLIP, Stable Diffusion, and FAISS
 
-This is a rapidly build prototype as a demonstration of what is possible with rapid prototyping and iterative refinement using AI dialogue engineering tools.
-
 This application demonstrates how to build a sophisticated image search engine that understands natural language, visual content, artistic styles, and geographical context. Users can search their image collections using plain English descriptions, find visually and stylistically similar images, and even combine location data with visual similarity. This runs completely locally without the need for cloud resources, APIs or models.
 
+This is a rapidly build prototype as a demonstration of what is possible with rapid prototyping and iterative refinement using AI dialogue engineering tools. Note it was rapidly created to demonstrate this type of search engine and features. It is intended to be a project to be built upon.
 
 What makes this search engine special is its dual-model approach to understanding context and style. For example, you can search for "sunset over mountains in van gogh style" and it will find relevant images that match both the content and artistic style, even if they weren't explicitly tagged with those terms. You can then adjust the search by adding more terms like "with cypress trees" or "in Switzerland" and adjust how much weight to give to each criterion and model.
 
@@ -11,7 +10,7 @@ Using FAISS allows the searching of huge quantities of images almost instantly, 
 
 This powerful combination of technologies creates a search engine that understands images both semantically and aesthetically. The integration of CLIP and Stable Diffusion components allows for unprecedented control over content and style-based searches, while the location awareness and multi-query capabilities provide a complete solution for sophisticated image search.
 
-The system demonstrates how multiple AI models can work together to create intuitive and powerful tools for managing and exploring image collections. 
+The prototype demonstrates how multiple AI models can work together to create intuitive and powerful tools for managing and exploring image collections. 
 
 ## Core Technologies
 
