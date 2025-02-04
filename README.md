@@ -179,7 +179,7 @@ The "Find Similar" feature now considers both visual content and artistic style:
 ## References
 
 * [FAISS article](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/)
-* [FAISS repo](https://github.com/facebookresearch/faiss){:target="_blank"}
+* [FAISS repo](https://github.com/facebookresearch/faiss)
 * [Stable Diffusion on Hugging Face](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 * [CLIP](https://openai.com/index/clip/)
 
