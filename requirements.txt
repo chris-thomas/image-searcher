@@ -1,0 +1,15 @@
+torch
+torchvision
+diffusers
+transformers
+accelerate
+safetensors
+fasthtml
+open-clip-torch
+Pillow
+torch
+numpy
+faiss-cpu 
+httpx
+geopy
+python-multipart
